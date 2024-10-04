@@ -41,12 +41,12 @@
 
 4. **Change this line in `bot.py` file** and add your API keys:
    ```bash
-   UNSPLASH_ACCESS_KEY=your_unsplash_access_key
-   TWITTER_API_KEY=your_twitter_api_key
-   TWITTER_API_SECRET_KEY=your_twitter_api_secret_key
-   TWITTER_ACCESS_TOKEN=your_access_token
-   TWITTER_ACCESS_TOKEN_SECRET=your_access_token_secret
-   TWITTER_BEARER_TOKEN=your_bearer_token
+   API_KEY = 'your_twitter_api_key'
+   API_SECRET_KEY = 'your_twitter_secret_key'
+   ACCESS_TOKEN = 'your_twitter_access_token'
+   ACCESS_TOKEN_SECRET = 'your_twitter_access_token_secret'
+   BEARER_TOKEN = 'your_twitter_bearer_token'
+   UNSPLASH_ACCESS_KEY = 'your_unsplash_access_key'
    ```
 
 ## How to Run
